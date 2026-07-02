@@ -5,7 +5,7 @@ Product-focused builder with a Masters in Information Systems and an MBA. Intere
 ## Featured Projects
 
 ### BTimely
-A live website found here https://btimely.vercel.app where users can upload, or describe a task/assignment and AI will estimate how long it will take. The AI then receives the users feedback about how long it actually took and learns more about the users speed, giving more accurate estimations moving forward.
+A live website found here https://btimely.vercel.app where users can upload, or describe a task/assignment and AI will estimate how long it will take. The AI then receives the users feedback about how long it actually took and learns more about the users speed, giving more accurate estimations moving forward. Other features like Calander exports will be available in the future.
 
 ### AI Student Life App (Figma Case Study)
 
